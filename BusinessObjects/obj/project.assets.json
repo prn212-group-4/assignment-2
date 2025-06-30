@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\BusinessObjects\\BusinessObjects.csproj",
+      "projectUniqueName": "D:\\demo_PRN\\assignment-2\\BusinessObjects\\BusinessObjects.csproj",
       "projectName": "BusinessObjects",
-      "projectPath": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\BusinessObjects\\BusinessObjects.csproj",
+      "projectPath": "D:\\demo_PRN\\assignment-2\\BusinessObjects\\BusinessObjects.csproj",
       "packagesPath": "C:\\Users\\letuankhoa\\.nuget\\packages\\",
-      "outputPath": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\BusinessObjects\\obj\\",
+      "outputPath": "D:\\demo_PRN\\assignment-2\\BusinessObjects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

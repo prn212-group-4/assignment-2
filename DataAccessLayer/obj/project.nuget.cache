@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kCPbhEhGvLo=",
+  "dgSpecHash": "s/K5oRklS0g=",
   "success": true,
-  "projectFilePath": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "D:\\demo_PRN\\assignment-2\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\letuankhoa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\letuankhoa\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -54,3 +54,15 @@ D:\demo\assignment-2\TranNgocKhiet_SE1854_A02\BusinessObjects\obj\Debug\net8.0\B
 D:\demo\assignment-2\TranNgocKhiet_SE1854_A02\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
 D:\demo\assignment-2\TranNgocKhiet_SE1854_A02\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
 D:\demo\assignment-2\TranNgocKhiet_SE1854_A02\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\demo_PRN\assignment-2\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\demo_PRN\assignment-2\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\demo_PRN\assignment-2\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\demo_PRN\assignment-2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\demo_PRN\assignment-2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\demo_PRN\assignment-2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\demo_PRN\assignment-2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\demo_PRN\assignment-2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.sourcelink.json
+D:\demo_PRN\assignment-2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\demo_PRN\assignment-2\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\demo_PRN\assignment-2\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\demo_PRN\assignment-2\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\Repositories\\Repositories.csproj": {}
+    "D:\\demo_PRN\\assignment-2\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\BusinessObjects\\BusinessObjects.csproj": {
+    "D:\\demo_PRN\\assignment-2\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "D:\\demo_PRN\\assignment-2\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "D:\\demo_PRN\\assignment-2\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\letuankhoa\\.nuget\\packages\\",
-        "outputPath": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\BusinessObjects\\obj\\",
+        "outputPath": "D:\\demo_PRN\\assignment-2\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\demo_PRN\\assignment-2\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\demo_PRN\\assignment-2\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\demo_PRN\\assignment-2\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\letuankhoa\\.nuget\\packages\\",
-        "outputPath": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\demo_PRN\\assignment-2\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\demo_PRN\\assignment-2\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\demo_PRN\\assignment-2\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }
@@ -160,14 +160,14 @@
         }
       }
     },
-    "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\Repositories\\Repositories.csproj": {
+    "D:\\demo_PRN\\assignment-2\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\demo_PRN\\assignment-2\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\Repositories\\Repositories.csproj",
+        "projectPath": "D:\\demo_PRN\\assignment-2\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\letuankhoa\\.nuget\\packages\\",
-        "outputPath": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\Repositories\\obj\\",
+        "outputPath": "D:\\demo_PRN\\assignment-2\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -188,11 +188,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\demo_PRN\\assignment-2\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\demo_PRN\\assignment-2\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\demo\\assignment-2\\TranNgocKhiet_SE1854_A02\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\demo_PRN\\assignment-2\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\demo_PRN\\assignment-2\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }
